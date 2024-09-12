@@ -1,6 +1,6 @@
 <h1 align="center"> DevOps </h1>
 
-<p align="center"> Tendo colocar todo meu aprendizado relacionado as ferramentas e tecnologia DevOps.</p>
+<p align="center">  Meu aprendizado relacionado as ferramentas e tecnologia DevOps se encontrar aqui.</p>
 
 ## Docker
 
