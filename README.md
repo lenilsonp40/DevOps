@@ -2,6 +2,8 @@
 
 <p align="center">  Meu aprendizado relacionado as ferramentas e tecnologia DevOps se encontrar aqui.</p>
 
+- [Anotações](docs/introduction.md)
+
 ## Docker
 
 <img align="right" src="https://user-images.githubusercontent.com/51878265/200594916-47ba8a4c-fb94-4953-b179-dfb542df9499.png" height="100" alt="docker"> 
@@ -74,9 +76,18 @@
 
 <br>
 
+<h4 align="center">
+  Feito por Lenilson Soares 👋️ Entre em contato!
+</h4>
 
-<br>
+<p align="center">
 
-
-<br>
-
+  <a href="mailto:lenilsonp40@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/lenilson-soares-/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+  
+</p>
