@@ -14,7 +14,13 @@
 - [Compose/Stack Files](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/docker/docker-compose)
 - [Dockerfile](https://github.com/Pradumnasaraf/DevOps/tree/main/docs/docker/dockerfiles)
 
-<be>
+## Azure
+
+<img align="right" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25" alt="docker"> 
+
+- [Notes](docs/azure/introduction.md)
+
+<br>
 
 ## Kubernetes
 
